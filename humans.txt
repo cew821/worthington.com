@@ -3,18 +3,11 @@ layout: null
 sitemap:
 exclude: 'yes'
 ---
+This is the personal webpage of Charles Worthington (@cew821).
 
-/* TEAM */
-Developer & Designer: Josh Gerdes
-Twitter: @joshgerdes
-Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
-						
-/* THANKS */
-Name: Dale Anthony
+The site is based on the template Jekyll-Uno by Josh Gerdes: https://github.com/joshgerdes/jekyll-uno
 
 /* SITE */
 Last update: {{ site.time | date: "%Y/%m/%d" }}
 Standards: HTML5, CSS3
 Components: Jekyll
-Software: Sublime Text, Photoshop

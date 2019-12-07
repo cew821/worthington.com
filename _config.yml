@@ -1,6 +1,6 @@
 # Site settings
 title: Charles Worthington
-description: 'The personal homepage of Charles Worthington'
+description: 'Charles is a product designer and software engineer working to improve the way our government works using design and technology. Charles is currently the Chief Technology Officer at the U.S. Department of Veterans Affairs.'
 url: 'http://cew821.github.io/worthington.com'
 baseurl: '/jekyll-uno'
 # google_analytics: 'UA-XXXXXX-X'
@@ -11,7 +11,7 @@ author:
   email: charles@worthington.com
   twitter_username: cew821
   github_username:  cew821
-  linkedin_username:  c.e.worthington
+  linkedin_username:  charlesworthington
 
 defaults:
   -
